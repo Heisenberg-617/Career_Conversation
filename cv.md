@@ -1,96 +1,61 @@
-**PROFILE**
+# CV Template
 
-Étudiant en 2e année de cycle ingénieur à l'EMINES School of
+## PROFILE
+A brief description of the candidate’s professional background, career goals, and main areas of expertise.  
+*Example:* “Data scientist with experience in machine learning, data analysis, and software development. Interested in applying AI to solve real-world problems.”
 
-industrial management a l'UM6P
+---
 
+## EDUCATION
+List degrees or certifications in reverse chronological order. Include institution, location, degree, and year.  
+*Example:*  
+- Master’s in Computer Science – University Name, City | 2022 – 2024  
+- Bachelor’s in Information Technology – University Name, City | 2018 – 2022  
 
+---
 
-**EDUCATION**
+## EXPERIENCE
+List relevant work or project experience. Include position, organization, duration, and main responsibilities.  
+*Example:*  
+- **Data Analyst Intern** – Company Name | Jan 2023 – Jun 2023  
+  - Analyzed large datasets to identify trends and insights.  
+  - Built predictive models to improve business decisions.  
+- **Software Developer** – Organization Name | Jul 2022 – Dec 2022  
+  - Developed web applications using Python and JavaScript.  
+  - Collaborated in agile teams to deliver features on time.  
 
-* EMINES - School Of Industrial Management Sept. 2024 - Now (Graduation Sept 2027)
+---
 
-Élève ingénieur en management industriel
+## CERTIFICATIONS
+Include any professional certifications or online courses relevant to the field.  
+*Example:*  
+- Certified Data Scientist – Institution Name, Year  
+- Machine Learning Specialization – Online Platform, Year  
 
-. Projet informatique (Développement d'un système de gestion des employés pour OCP)
+---
 
-. Mécanique des milieux continus (Construction d'un dôme en spaghetti, étude mécanique de contraintes)
+## SKILLS
+List technical and soft skills. Categorize if helpful.  
+*Example:*  
+- **Programming:** Python, Java, SQL  
+- **Data & ML:** Machine Learning, Deep Learning, Data Analysis, NLP  
+- **Tools:** Git, Docker, TensorFlow, Scikit-learn  
+- **Soft Skills:** Communication, Teamwork, Problem Solving  
 
-. Biomédical Engineering (Simulation numérique du cycle respiratoire dans l'acinus pulmonaire)
+---
 
-. Introduction au management industriel (Developpement d'une strategie d'internationalisation pour une startup IA marocaine, intégrant expansion, gestion de projets, analyse et adaptation aux marchés étrangers.)
+## LANGUAGES
+List languages and proficiency level.  
+*Example:*  
+- English – Professional proficiency  
+- French – Intermediate  
+- Spanish – Basic  
 
-. Projet VBA - Power BI, créer un excel standardisé pour un client OCP (responsable qualité) pour automatiser le reporting et l'identification de non conformité aux exigences de clients internes et externes.
+---
 
-
-
-* CPGE Ibn Timiya - Marrakech : 2023 - 2024
-
-2" annee des classes préparatoires aux grandes écoles classe MP\*
-
-
-
-* Lycee Lissane Eddine Ibn Al Khatib - Laayoune : 2022 - 2023
-
-1" année des classes préparatoires aux grandes écoles
-
-
-
-* Lycee Hassan II - Laayoune
-
-Baccalaureat sciences mathématiques option A, mention très bien : 2021 - 2022
-
-
-
-
-
-**EXPERIENCE**
-
-* Stagiaire en observation géologique Région d'Asni: Analyser les formations géologiques et observation des processus géologiques; 14/10/24 - 18/10/24
-* Stage ouvrier en OCP: Stage d'observation du dessalement d'eau de mer et des analyses chimiques en laboratoire industriel; 01/06/25 - 31/06/25
-
-
-
-**CERTIFICATIONS**
-
-* Udemy : Machine Learning A-Z: Al, Python Apprentissage et application des modeles de Machine Learning pour analyses prédictives et prise de décision en Python. Obtenu en 25/08/25
-* Udemy : Artificial Intelligence A-Z 2025: Agentic AI, Gen AI, and RL
-* Coursera : Sequential models
-* (Built a decoder-only transformer like chatGPT)
-* Udemy : AI Engineer Agentic Track: The Complete Agent \& MCP Course
-
-
-
-**SKILLS**
-
-* Capacité d'apprentissage
-* Adaptabilité et flexibilité
-* Esprit de travail en groupe
-* Machine learning models
-* Agentic AI
-* Python
-* Java
-* MySQL
-* Microsoft office
-* Power BI
-* MS project
-* WBS
-
-
-
-**LANGUAGES**
-
-Arabe - langue maternelle
-
-Anglais - bilingue
-
-Français - niveau intermédiaire
-
-
-
-**ACTIVITÉS PARASCOLAIRES**
-
-* Taekwondo : Ceinture noire en taekwondo.
-* Échecs
-* Football
-* Natation
+## ACTIVITÉS PARASCOLAIRES
+Optional section for extracurricular activities, volunteering, or personal projects.  
+*Example:*  
+- Member of University AI Club, organizing coding competitions and workshops.  
+- Volunteer for community tech education programs.  
+- Participated in hackathons and online coding challenges.  
