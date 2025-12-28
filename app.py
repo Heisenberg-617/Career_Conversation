@@ -92,7 +92,7 @@ class Me:
     def __init__(self):
         self.openai = OpenAI()
         self.groq = Groq()
-        self.name = "Reda Baddy"
+        self.name = "Your name"
 
         with open("cv.md", "r", encoding="utf-8") as f:
             self.resume = f.read()
