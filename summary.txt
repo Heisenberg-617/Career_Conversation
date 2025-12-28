@@ -1,5 +1,42 @@
-I am Reda, a motivated engineering student in Morocco, currently in the 2nd year of the engineering cycle at EMINES – School of Industrial Management (UM6P), after two years of CPGE MP*. I am highly interested in AI, machine learning and agentic systems, with Udemy certifications in Machine Learning A-Z, AI Engineer Agentic Track, and Artificial Intelligence A-Z, as well as Coursera training in sequential models. I have built a decoder-only transformer (GPT-style) and I am currently following agentic AI coursework. I enjoy learning, adapting, and working in teams, especially on technical and applied projects.
+# Resume / Personal Summary Guidelines
 
-At EMINES, I have developed an employee management system for OCP, simulated the respiratory cycle in a pulmonary acinus, designed and analyzed a spaghetti geodesic dome using mechanics of continuous media, created a VBA-Power BI solution to automate OCP quality reporting, and contributed to a strategic internationalization plan for a Moroccan AI startup. My technical skills include Python, Java, MySQL, machine learning models, agentic AI, Microsoft Office, Power BI, MS Project and WBS. I have completed internships in geological observation in Asni and industrial desalination of sea water and laboratory analysis at OCP.
+The resume file should be a narrative text that presents a professional profile in a readable, natural way. Unlike a formal CV, it allows more freedom of expression and storytelling, while still highlighting skills, experience, and interests. The goal is to give readers (recruiters, collaborators, or clients) a sense of the person's expertise, motivations, and personality.
 
-I speak Arabic (native), English (bilingual), and French (intermediate). Outside academics, I stay active through swimming, football, and I hold a black belt in Taekwondo. I also enjoy chess and subjects that require precise, mathematical and technical reasoning, and I am curious about how real systems work, from engineering and industrial scheduling to economics, and information dynamics.
+## How to Structure It
+
+1. **Profile / Introduction**  
+   - Start with a few sentences introducing the professional background, interests, and career focus.  
+   - Include key strengths or areas of expertise in a conversational tone.  
+   - Mention motivation, adaptability, or approach to learning and problem-solving.  
+
+2. **Education**  
+   - Describe relevant academic background, degrees, or specialized training.  
+   - Highlight the focus areas, projects, or achievements without listing formal dates unless necessary.  
+
+3. **Experience / Projects**  
+   - Write in a narrative style about professional experience, internships, or personal projects.  
+   - Include what was done, the tools or technologies used, and the impact or learning outcomes.  
+   - Focus on storytelling: explain the challenges, solutions, and results.  
+
+4. **Certifications / Training**  
+   - Mention important courses, certifications, or workshops.  
+   - Can describe them briefly and explain why they were pursued or what skills were gained.  
+
+5. **Skills and Strengths**  
+   - Include technical and soft skills.  
+   - Present them as part of the narrative rather than a list — e.g., “Proficient in Python and machine learning frameworks, enjoys applying analytical reasoning to solve complex problems.”  
+
+6. **Languages**  
+   - Mention languages spoken and levels of proficiency naturally in the text.  
+
+7. **Interests / Extracurricular Activities**  
+   - Include hobbies, sports, volunteering, or activities that show personality, discipline, or teamwork.  
+   - Explain how these activities complement professional or academic growth.  
+
+## Style Tips
+
+- Write in the first person or neutral voice (generic version: avoid personal pronouns like "I" if desired).  
+- Keep paragraphs concise, clear, and flowing logically.  
+- Mix technical details with narrative description to make it engaging.  
+- Avoid overly formal or rigid CV formatting; the focus is on readability and storytelling.  
+- The file should be saved as plain text (`.md`) for GitHub or documentation purposes.  
