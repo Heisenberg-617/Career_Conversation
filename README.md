@@ -45,3 +45,18 @@ It leverages **OpenAI**, **Groq**, and **Gradio** to provide an interactive chat
 
 ```bash
 pip install openai groq gradio requests python-dotenv
+```
+3. Create a .env file with your credentials:
+PUSHOVER_TOKEN=<your_pushover_token>
+PUSHOVER_USER=<your_pushover_user_key>
+OPENAI_API_KEY=<your_openai_key>
+
+## Usage
+
+1. Prepare your context files:
+cv.md → Your full resume in markdown format.
+summary.txt → Short summary of your professional or personnal background.
+
+2. Run the application:
+python app.py
+Open the Gradio interface in your browser.
