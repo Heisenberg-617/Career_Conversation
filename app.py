@@ -94,9 +94,9 @@ class Me:
         self.groq = Groq()
         self.name = "Reda Baddy"
 
-        with open("me/cv.md", "r", encoding="utf-8") as f:
+        with open("cv.md", "r", encoding="utf-8") as f:
             self.resume = f.read()
-        with open("me/summary.txt", "r", encoding="utf-8") as f:
+        with open("summary.txt", "r", encoding="utf-8") as f:
             self.summary = f.read()
 
     def handle_tool_call(self, tool_calls):
